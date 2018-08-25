@@ -26,39 +26,39 @@ msgctxt "start of week"
 msgid "1"
 msgstr "0"
 
-#: wp-admin/about.php:222
+#: wp-admin/about.php:262
 msgid "Improvements to Roles and Capabilities"
 msgstr "역할 및 권한 개선"
 
-#: wp-admin/about.php:223
+#: wp-admin/about.php:263
 msgid "New capabilities have been introduced that allow granular management of plugins and translation files. In addition, the site switching process in multisite has been fine-tuned to update the available roles and capabilities in a more reliable and coherent way."
 msgstr "플러그인과 번역 파일의 세심한 관리가 가능한 새로운 기능이 도입됐습니다. 추가로 다중 사이트의 사이트 전환 과정에서 세밀한 조정이 이뤄져 더 신뢰할 수 있고 일관성 있는 역할와 권한 업데이트가 가능해졌습니다."
 
-#: wp-admin/about.php:219
+#: wp-admin/about.php:259
 msgid "WordPress 4.9 includes an upgraded version of MediaElement.js, which removes dependencies on jQuery, improves accessibility, modernizes the UI, and fixes many bugs."
 msgstr "워드프레스 4.9는 MediaElement.js의 업그레이드 된 버전을 포함합니다. 이것은 제이쿼리의 의존성을 제거하고 접근성의 개선, UI를 현대화, 그리고 많은 버그를 수정했습니다."
 
-#: wp-admin/about.php:218
+#: wp-admin/about.php:258
 msgid "MediaElement.js upgraded to 4.2.6"
 msgstr "MediaElement.js를 4.2.6으로 업그레이드"
 
-#: wp-admin/about.php:215
+#: wp-admin/about.php:255
 msgid "We&#8217;ve introduced a new code editing library, CodeMirror, for use within core. Use it to improve any code writing or editing experiences within your plugins, like CSS or JavaScript include fields."
 msgstr ""
 "CodeMirror라는 새로운 코드 편집 라이브러리를 도입했으며 코어 내부에서 사용할 수 있습니다. CSS나 자바스크립드의 인클루드 필드와 같이 플러그인에서 코드 작성이나\n"
 " 편집 경험을 개선하는데 사용할 수 있습니다."
 
-#: wp-admin/about.php:214
+#: wp-admin/about.php:254
 msgid "CodeMirror available for use in your themes and plugins"
 msgstr "테마와 플러그인에서 사용 가능한 CodeMirror"
 
 #. translators: %s:
 #. https://make.wordpress.org/core/2017/11/01/improvements-to-the-customize-js-api-in-4-9/
-#: wp-admin/about.php:208
+#: wp-admin/about.php:248
 msgid "We&#8217;ve made numerous improvements to the Customizer JS API in WordPress 4.9, eliminating many pain points and making it just as easy to work with as the PHP API. There are also new base control templates, a date/time control, and section/panel/global notifications to name a few. <a href=\"%s\">Check out the full list.</a>"
 msgstr "워드프레스 4.9에서 Customizer JS API의 많은 개선이 있었습니다. 많은 고민거리를 제거하고 PHP API처럼 작업하기 쉽게 만들었습니다. 또한 베이스 콘트롤 템플릿, 날짜/시간 제어, 몇 가지 섹션/패널/글로벌 알림 기능이 있습니다. <a href=\"%s\">전체 목록을 알아보세요.</a>"
 
-#: wp-admin/about.php:204
+#: wp-admin/about.php:244
 msgid "Customizer JS API Improvements"
 msgstr "Customizer JS API 개선"
 
@@ -66,7 +66,7 @@ msgstr "Customizer JS API 개선"
 msgid "This data is used to provide general enhancements to WordPress, which includes helping to protect your site by finding and automatically installing new updates. It is also used to calculate statistics, such as those shown on the <a href=\"%s\">WordPress.org stats page</a>."
 msgstr "이 데이터는 워드프레스의 일반적인 개선을 위해 사용됩니다. 여기에는 새로운 업데이트를 찾아서 자동으로 설치하는 등 사이트를 보호하는 것이 포함됩니다. 또한 통계를 위해서도 사용됩니다. 예를들면 <a href=\"%s\">WordPress.org 통계페이지</a>에서 볼 수 있는 것들입니다."
 
-#: wp-admin/about.php:117
+#: wp-admin/about.php:157
 msgid "When you edit themes and plugins directly, WordPress 4.9 will politely warn you that this is a dangerous practice. It will recommend that you backup your files before saving, so they don&#8217;t get overwritten by the next update. Take the safe route: your future self will thank you. Your team and customers will thank you."
 msgstr "테마나 플러그인을 직접 수정할 경우 워드프레스 4.9는 이 작업이 위험하다는 것을 친절하게 경고해줍니다. 파일에 저장하기 전에 백업할 것을 권장합니다. 안전한 방법을 선택하세요: 나중에 자신에게 고마워할 것입니다. 팀과 고객도 고마워할 것입니다."
 
@@ -147,52 +147,52 @@ msgid "Enter the address here if you <a href=\"%s\">want your site home page to 
 msgstr "위 두곳의 입력란을 임의로 변경할 경우 관리자 화면에 재접속이 불가능하게 됩니다. 다음 링크에서 내용을 숙지하신 후에 사용하세요(영문). <a href=\"%s\">사이트 홈페이지가 워드프레스 설치 디렉토리와 다르게 하려면</a> 여기에 주소를 입력하세요."
 
 #. translators: %s: smiling face with smiling eyes emoji
-#: wp-admin/about.php:197
+#: wp-admin/about.php:237
 msgid "Developer Happiness %s"
 msgstr "개발자의 행복 %s"
 
-#: wp-admin/about.php:187
+#: wp-admin/about.php:227
 msgid "https://wordpress.org/plugins/gutenberg/"
 msgstr "https://wordpress.org/plugins/gutenberg/"
 
-#: wp-admin/about.php:186
+#: wp-admin/about.php:226
 msgid "WordPress is working on a new way to create and control your content and we&#8217;d love to have your help. Interested in being an <a href=\"%s\">early tester</a> or getting involved with the Gutenberg project? <a href=\"%s\">Contribute on GitHub</a>."
 msgstr "워드프레스는 새로운 방법으로 콘텐츠를 생성하고 제어합니다. 그리고 여러분의 도움을 원합니다. <a href=\"%s\">초기 테스터</a>나 구텐베르그 프로젝트에 참여에 관심이 있으신가요? <a href=\"%s\">깃허브에 기여하기</a>."
 
 #. translators: %s: handshake emoji
-#: wp-admin/about.php:180
+#: wp-admin/about.php:220
 msgid "Lend a Hand with Gutenberg %s"
 msgstr "구텐베르그에 도움주기 %s"
 
-#: wp-admin/about.php:155
+#: wp-admin/about.php:195
 msgid "More Reliable Theme Switching"
 msgstr "더 신뢰할 수 있는 테마 변경"
 
-#: wp-admin/about.php:147
+#: wp-admin/about.php:187
 msgid "Site Building Improvements"
 msgstr "사이트 제작 개선"
 
-#: wp-admin/about.php:132
+#: wp-admin/about.php:172
 msgid "The New Gallery Widget"
 msgstr "새로운 갤러리 위젯"
 
-#: wp-admin/about.php:124
+#: wp-admin/about.php:164
 msgid "Even More Widget Updates"
 msgstr "더 많은 위젯 업데이트"
 
-#: wp-admin/about.php:87
+#: wp-admin/about.php:127
 msgid "Were you lured away from your desk before you saved your new draft design? Fear not, when you return, WordPress 4.9 will politely ask whether or not you&#8217;d like to save your unsaved changes."
 msgstr "새로운 디자인을 저장하지 않고 책상에서 벗어날 일이 있다면 걱정하지 마세요. 돌아왔을 때 워드프레스 4.9는 변경사항을 저장할 것인지 친절하게 물어볼 것입니다."
 
-#: wp-admin/about.php:94
+#: wp-admin/about.php:134
 msgid "Coding Enhancements"
 msgstr "코딩 개선"
 
-#: wp-admin/about.php:86
+#: wp-admin/about.php:126
 msgid "A Prompt to Protect Your Work"
 msgstr "작업물 보호 메시지"
 
-#: wp-admin/about.php:79
+#: wp-admin/about.php:119
 msgid "Design Locking To Guard Your Changes"
 msgstr "변경사항을 보호하는 디자인 잠금"
 
@@ -204,75 +204,75 @@ msgstr "우리는 개인정보 보호와 투명성을 아주 심각하게 취급
 msgid "From time to time, your WordPress site may send data to WordPress.org &#8212; including, but not limited to &#8212; the version of WordPress you are using, and a list of installed plugins and themes."
 msgstr "여러분의 워드프레스 사이트는 가끔 WordPress.org에 데이터를 보낼 수도 있습니다 &#8212; 다음을 포함하며 추가될 수도 있음 &#8212; 사용중인 워드프레스의 버전, 설치된 플러그인 및 테마 목록 등."
 
-#: wp-admin/about.php:163
+#: wp-admin/about.php:203
 msgid "Were you confused by the steps to create a new menu? Perhaps no longer! We&#8217;ve ironed out the UX for a smoother menu creation process. Newly updated copy will guide you."
 msgstr "새 메뉴를 만드는 단계 때문에 혼란스러운 적이 있나요? 아마도 이제는 없을 겁니다! 더 부드러운 메뉴 생성 과정을 위한 사용자 경험(UX)을 마련했습니다. 새롭게 단장된 가이드가 여러분을 안내할 것입니다."
 
-#: wp-admin/about.php:162
+#: wp-admin/about.php:202
 msgid "Better Menu Instructions = Less Confusion"
 msgstr "더 나아진 메뉴 가이드 = 혼란 제거"
 
-#: wp-admin/about.php:156
+#: wp-admin/about.php:196
 msgid "When you switch themes, widgets sometimes think they can just up and move location. Improvements in WordPress 4.9 offer more persistent menu and widget placement when you decide it&#8217;s time for a new theme. Additionally, you can preview installed themes or download, install, and preview new themes right. Nothing says handy like being able to preview before you deploy. "
 msgstr "테마를 변경하면 위젯은 위치가 변경됩니다. 워드프레스 4.9의 개선된 점은 테마를 변경하더라도 일관된 메뉴와 위젯의 위치를 제공합니다. 추가적으로 설치된 테마를 미리보기 하거나 다운로드와 설치, 새로운 테마를 바로 미리보기 할 수 있습니다. 테마를 사이트에 공개하기 전에 간편하게 미리보기 할 수 있습니다."
 
-#: wp-admin/about.php:140
+#: wp-admin/about.php:180
 msgid "Want to add media to your text widget? Embed images, video, and audio directly into the widget along with your text, with our simple but useful Add Media button. Woo!"
 msgstr "텍스트 위젯에 미디어를 추가하고 싶으신가요? 이미지, 비디오, 오디오를 텍스트를 포함해 위젯에 바로 임베드하세요. 심플하고 유용한 미디어 추가하기 버튼을 사용하면 됩니다!"
 
-#: wp-admin/about.php:139
+#: wp-admin/about.php:179
 msgid "Press a Button, Add Media"
 msgstr "버튼을 눌러 미디어 추가하기"
 
-#: wp-admin/about.php:133
+#: wp-admin/about.php:173
 msgid "An incremental improvement to the media changes hatched in WordPress 4.8, you can now add a gallery via widget. Yes!"
 msgstr "미디어 변경의 점진적인 개선은 워드프레스 4.8에서 도입됐습니다. 이제는 위젯을 통해 갤러리를 추가할 수 있습니다!"
 
-#: wp-admin/about.php:110
+#: wp-admin/about.php:150
 msgid "The dreaded white screen. You&#8217;ll avoid it when working on themes and plugin code because WordPress 4.9 will warn you about saving an error. You&#8217;ll sleep better at night."
 msgstr "공포의 화이트 스크린. 테마와 플러그인 코딩작업 시 피할 수 있습니다. 왜냐하면 워드프레스 4.9가 에러에 대해 경고할 것이기 때문입니다. 잠못이루는 밤이 없어지겠죠."
 
-#: wp-admin/about.php:116
+#: wp-admin/about.php:156
 msgid "Warning: Potential Danger Ahead!"
 msgstr "경고: 잠재적인 위험이 있습니다!"
 
-#: wp-admin/about.php:109
+#: wp-admin/about.php:149
 msgid "Sandbox for Safety"
 msgstr "안전을 위한 샌드박스"
 
-#: wp-admin/about.php:103
+#: wp-admin/about.php:143
 msgid "You&#8217;ve got a display problem but can&#8217;t quite figure out exactly what went wrong in the CSS you lovingly wrote. With syntax highlighting and error checking for CSS editing and the Custom HTML widget introduced in WordPress 4.8.1, you&#8217;ll pinpoint coding errors quickly. Practically guaranteed to help you scan code more easily and suss out and fix code errors quickly."
 msgstr "보이는 것에 문제가 있는데 작성하는 CSS에 정확히 무엇이 문제인지 알 수 없을 경우가 있습니다. 워드프레스 4.8.1에 도입된 CSS 구문 강조 및 에러 점검과 사용자 정의 HTML 위젯은 코딩 에러를 빠르게 집어낼 수 있습니다. 코드를 쉽게 둘러보고 빠르게 에러를 수정하는데 확실한 도움을 줍니다."
 
-#: wp-admin/about.php:102
+#: wp-admin/about.php:142
 msgid "Syntax Highlighting and Error Checking? Yes, Please!"
 msgstr "구문강조와 에러 점검을 할까요? 예 그러세요!"
 
-#: wp-admin/about.php:80
+#: wp-admin/about.php:120
 msgid "Ever encounter a scenario where two designers walk into a project and designer A overrides designer B&#8217;s beautiful changes? WordPress 4.9&#8217;s design lock feature (similar to post locking) secures your draft design so that no one can make changes to it or erase all your hard work."
 msgstr "두 사람의 디자이너가 프로젝트를 진행하고 있는데 한 디자이너가 다른 디자이너의 멋진 작업물을 덮어쓰기해버린 경험이 있으신가요? 워드프레스 4.9의 디자인 잠금기능(글 잠금 기능와 유사함)은 어렵게 만든 작업중인 디자인을 보호하며 다른 사람이 변경하거나 지울 수 없게 합니다."
 
-#: wp-admin/about.php:73
+#: wp-admin/about.php:113
 msgid "Need to get some feedback on proposed site design changes? WordPress 4.9 gives you a preview link you can send to your team and customers so that you can collect and integrate feedback before you schedule the changes to go live. Can we say collaboration&#43;&#43;?"
 msgstr "제안된 사이트 디자인의 변경사항에 대해 피드백을 받고 싶으신가요? 워드프레스 4.9는 팀이나 고객에게 미리보기 링크를 보낼 수 있는 기능이 있으며 변경사항을 공개하기 전에 피드백을 수집하고 수정할 수 있습니다. 이것을 공동작업&#43;&#43;라고 하죠?"
 
-#: wp-admin/about.php:72
+#: wp-admin/about.php:112
 msgid "Collaborate with Design Preview Links"
 msgstr "디자인 미리보기 링크를 통한 공동작업"
 
-#: wp-admin/about.php:66
+#: wp-admin/about.php:106
 msgid "Yes, you read that right. Just like you can draft and revise posts and schedule them to go live on the date and time you choose, you can now tinker with your site&#8217;s design and schedule those design changes to go live as you please."
 msgstr "네, 맞습니다. 임시글을 만든 다음 글을 수정하고 선택한 날짜와 시간에 공개되도록 예약할 수 있듯이 사이트 디자인을 공개하기 전에 원하는 시간에 예약할 수 있습니다."
 
-#: wp-admin/about.php:65
+#: wp-admin/about.php:105
 msgid "Draft and Schedule Site Design Customizations"
 msgstr "사이트 디자인 사용자 정의 임시저장 및 예약"
 
-#: wp-admin/about.php:57
+#: wp-admin/about.php:97
 msgid "Customizer Workflow Improved"
 msgstr "사용자 정의하기 작업흐름 개선"
 
-#: wp-admin/about.php:44
+#: wp-admin/about.php:84
 msgid "Welcome to an improved Customizer workflow with design drafts, locking, scheduling, and preview links. What&#8217;s more, code syntax highlighting and error checking will make for a clean and smooth site building experience. Finally, if all that wasn&#8217;t pretty great, we&#8217;ve got a great new Gallery widget and improvements to theme browsing and switching."
 msgstr "개선된 사용자 정의하기 작업흐름에 오신 것을 환영합니다. 디자인 임시저장, 잠금, 예약, 미리보기 링크가 있으며 이에 더해 코드 구문강조와 에러 점검은 깨끗하고 부드러운 사이트 제작 경험을 보여줄 것입니다. 마지막으로 아주 멋지지는 않지만 훌륭한 갤러리 위젯 및 테마 둘러보기와 테마 변경에서 개선된 점이 있습니다."
 
@@ -282,7 +282,7 @@ msgid "Thank you for updating to the latest version! WordPress %s will smooth yo
 msgstr "최신 버전으로 업데이트 해주셔서 감사합니다! 워드프레스 %s는 디자인 워크 플로우를 부드럽게 하고 코드 에러를 안전하게 지켜줄 것입니다."
 
 #. translators: %s: party popper emoji
-#: wp-admin/about.php:39
+#: wp-admin/about.php:79
 msgid "Major Customizer Improvements, Code Error Checking, and More! %s"
 msgstr "사용자 정의하기 대폭 개선, 코드 에러 검사, 그리고 더 많은 것들! %s"
 
@@ -332,7 +332,7 @@ msgstr "테마 파일"
 msgid "folder"
 msgstr "폴더"
 
-#: wp-admin/includes/file.php:542
+#: wp-admin/includes/file.php:543
 msgid "Unable to communicate back with site to check for fatal errors, so the PHP change was reverted. You will need to upload your PHP file change by some other means, such as by using SFTP."
 msgstr "치명적인 에러를 점검하기 위해 사이트와 통신할 수 업습니다. 따라서 PHP 변경사항이 원래의 것으로 복구됐습니다. PHP 파일 변경사항을 SFTP와 같은 다른 수단을 통해 업로드 해야 합니다."
 
@@ -341,7 +341,7 @@ msgid "Installation Required"
 msgstr "설치 필요"
 
 #. translators: %s: plugin filename
-#: wp-admin/includes/plugin.php:907
+#: wp-admin/includes/plugin.php:894
 msgid "Could not fully remove the plugin %s."
 msgstr "플러그인 %s을(를) 완전히 제거할 수 없습니다."
 
@@ -496,7 +496,7 @@ msgstr "<a href=\"https://codex.wordpress.org/Network_Admin_Sites_Screen\">사�
 msgid "Plugin Installation"
 msgstr "플러그인 설치"
 
-#: wp-admin/includes/plugin.php:430
+#: wp-admin/includes/plugin.php:417
 msgid "Custom installation script."
 msgstr "사용자 정의 설치 스크립트."
 
@@ -524,7 +524,7 @@ msgstr "<strong>정보</strong> &mdash; 사이트 URL을 수정하면 사이트�
 msgid "The menu is for editing information specific to individual sites, particularly if the admin area of a site is unavailable."
 msgstr "메뉴는 개별 사이트에 특정된 정보를 편집하기 위함입니다. 특히 사이트의 관리자 영역이 불가능할 경우입니다."
 
-#: wp-admin/includes/file.php:485
+#: wp-admin/includes/file.php:486
 msgid "Unable to write to file."
 msgstr "파일에 쓰기를 할 수 없습니다."
 
@@ -1696,7 +1696,7 @@ msgid "(Currently set to: %s)"
 msgstr "(현재 설정: %s)"
 
 #. translators: %s: WordPress version number
-#: wp-admin/about.php:350
+#: wp-admin/about.php:390
 msgid "<strong>Version %s</strong> addressed one security issue."
 msgstr "<strong>버전 %s</strong> 하나의 보안 문제 처리함."
 
@@ -1718,15 +1718,15 @@ msgstr "<a href=\"%s\">Gravatar</a>에서 프로필 사진을 변경할 수 있�
 msgid "Profile Picture"
 msgstr "프로필 사진"
 
-#: wp-admin/about.php:344
+#: wp-admin/about.php:384
 msgid "Security Releases"
 msgstr "보안 릴리즈"
 
-#: wp-admin/about.php:347
+#: wp-admin/about.php:34 wp-admin/about.php:387
 msgid "Maintenance and Security Releases"
 msgstr "유지보수 및 보안 릴리즈"
 
-#: wp-admin/about.php:341
+#: wp-admin/about.php:381
 msgid "Maintenance Releases"
 msgstr "유지 관리 릴리즈"
 
@@ -2696,7 +2696,7 @@ msgstr "https://codex.wordpress.org/Introduction_to_Blogging#Managing_Comments"
 msgid "The <a href=\"https://codex.wordpress.org/Glossary#Character_set\">character encoding</a> of your site (UTF-8 is recommended)"
 msgstr "사이트 <a href=\"https://codex.wordpress.org/Glossary#Character_set\">글자 인코딩</a> (UTF-8 추천)"
 
-#: wp-admin/includes/file.php:1708
+#: wp-admin/includes/file.php:1709
 msgid "example: www.wordpress.org"
 msgstr "예: www.wordpress.org"
 
@@ -2750,7 +2750,7 @@ msgstr "제외"
 msgid "Main menu"
 msgstr "메인 메뉴"
 
-#: wp-admin/includes/file.php:1753
+#: wp-admin/includes/file.php:1754
 msgid "Enter the location on the server where the public and private keys are located. If a passphrase is needed, enter that in the password field above."
 msgstr "공개 키와 비밀 키가 있는 서버 위치를 입력하세요. 비밀 문구가 필요할 경우 비밀번호 란 위에 입력하세요."
 
@@ -3766,8 +3766,8 @@ msgstr "워드프레스 %1$s이(가) %2$s 테마를 사용하고 있습니다."
 
 #: wp-admin/includes/class-core-upgrader.php:137
 #: wp-admin/includes/class-wp-upgrader.php:164
-#: wp-admin/includes/update-core.php:885 wp-admin/includes/update-core.php:962
-#: wp-admin/includes/update-core.php:985
+#: wp-admin/includes/update-core.php:921 wp-admin/includes/update-core.php:998
+#: wp-admin/includes/update-core.php:1021
 msgid "The update cannot be installed because we will be unable to copy some files. This is usually due to inconsistent file permissions."
 msgstr "몇 개의 파일을 복사할 수 없기 때문에 업데이트는 설치할 수 없습니다. 이것은 보통 파일의 퍼미션이 서로 다르기 때문입니다."
 
@@ -3910,7 +3910,7 @@ msgstr "테마 업데이트: %s"
 msgid "Updating plugin: %s"
 msgstr "플러그인 업데이트: %s"
 
-#: wp-admin/includes/update-core.php:1022
+#: wp-admin/includes/update-core.php:1058
 msgid "There is not enough free disk space to complete the update."
 msgstr "업데이트를 완료하기 위한 충분한 디스크 공간이 없습니다."
 
@@ -3956,19 +3956,19 @@ msgstr "워드프레스 %s 로 업데이트 합니다"
 msgid "WordPress %s"
 msgstr "워드프레스 %s"
 
-#: wp-admin/includes/file.php:1021
+#: wp-admin/includes/file.php:1022
 msgid "The checksum of the file (%1$s) does not match the expected checksum value (%2$s)."
 msgstr "파일(%1$s)의 중복 검사가 예상된 중복 검사 값 (%2$s)과 일치하지 않습니다."
 
-#: wp-admin/includes/file.php:1720
+#: wp-admin/includes/file.php:1721
 msgid "This password will not be stored on the server."
 msgstr "이 비밀번호는 서버에 저장되지 않습니다."
 
-#: wp-admin/includes/update-core.php:913
+#: wp-admin/includes/update-core.php:949
 msgid "Preparing to install the latest version&#8230;"
 msgstr "최근 버전을 설치하기 위해 준비 중입니다&#8230;"
 
-#: wp-admin/includes/update-core.php:975
+#: wp-admin/includes/update-core.php:1011
 msgid "Copying the required files&#8230;"
 msgstr "필요한 파일을 복사 중입니다&#8230;"
 
@@ -4740,7 +4740,7 @@ msgstr "다른 곳에서 다운로드받은 플러그인을 설치하길 원한�
 msgid "You can also browse a user&#8217;s favorite plugins, by using the Favorites link above the plugins list and entering their WordPress.org username."
 msgstr "플러그인 목록 위의 즐겨찾기 링크를 클릭하고 WordPress.org의 사용자명을 입력해 사용자의 즐겨찾는 플러그인을 둘러볼 수도 있습니다."
 
-#: wp-admin/includes/update-core.php:1261 wp-admin/update-core.php:511
+#: wp-admin/includes/update-core.php:1301 wp-admin/update-core.php:511
 msgid "Welcome to WordPress %1$s. You will be redirected to the About WordPress screen. If not, click <a href=\"%2$s\">here</a>."
 msgstr "워드프레스 %1$s에 오신 것을 환영합니다. \"워드프레스 소개\" 화면으로 안내될 것입니다. 아닌 경우 <a href=\"%2$s\">여기</a>를 클릭하세요."
 
@@ -4960,8 +4960,8 @@ msgstr "사용자 삭제됨"
 msgid "New user created. <a href=\"%s\">Edit user</a>"
 msgstr "새 사용자 생성됨. <a href=\"%s\">사용자 편집하기</a>"
 
-#: wp-admin/includes/class-core-upgrader.php:36 wp-admin/includes/file.php:1146
-#: wp-admin/includes/file.php:1257
+#: wp-admin/includes/class-core-upgrader.php:36 wp-admin/includes/file.php:1147
+#: wp-admin/includes/file.php:1258
 msgid "Could not copy files. You may have run out of disk space."
 msgstr "파일을 복사할 수 없습니다. 디스크 공간을 다 사용했을 수도 있습니다."
 
@@ -5510,26 +5510,27 @@ msgid "Show Toolbar when viewing site"
 msgstr "사이트를 볼 때 툴바 보이기"
 
 #. translators: %s: Codex URL
-#: wp-admin/about.php:367
+#: wp-admin/about.php:50 wp-admin/about.php:68 wp-admin/about.php:407
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
 msgstr "더 많은 정보는, <a href=\"%s\">릴리즈 노트</a>를 참조하세요."
 
 #. translators: 1: WordPress version number, 2: plural number of bugs. Singular
 #. security issue.
-#: wp-admin/about.php:359
+#: wp-admin/about.php:399
 msgid "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bugs."
 msgstr[0] "<strong>버전 %1$s</strong> 보안 문제와 %2$s 버그를 처리했습니다."
 
+#. translators: 1: WordPress version number, 2: plural number of bugs.
 #. translators: 1: WordPress version number, 2: plural number of bugs. More
 #. than one security issue.
-#: wp-admin/about.php:363
+#: wp-admin/about.php:39 wp-admin/about.php:57 wp-admin/about.php:403
 msgid "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bugs."
 msgstr[0] "<strong>버전 %1$s</strong> 몇가지 보안 문제를 처리했고 %2$s 버그를 수리했습니다."
 
 #. translators: 1: WordPress version number, 2: plural number of bugs.
-#: wp-admin/about.php:355
+#: wp-admin/about.php:395
 msgid "<strong>Version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
 msgstr[0] "<strong>버전 %1$s</strong>이(가) %2$s 버그를 해결함."
@@ -5543,20 +5544,20 @@ msgstr "워드프레스 알림판에 오신 것을 환영합니다! 이 화면�
 msgid "What&#8217;s New"
 msgstr "새로운 것"
 
-#: wp-admin/about.php:346
+#: wp-admin/about.php:386
 msgid "Maintenance and Security Release"
 msgstr "관리 보안 릴리즈"
 
-#: wp-admin/about.php:343
+#: wp-admin/about.php:383
 msgid "Security Release"
 msgstr "보안 릴리즈"
 
-#: wp-admin/about.php:340
+#: wp-admin/about.php:380
 msgid "Maintenance Release"
 msgstr "관리 릴리즈"
 
 #. translators: %s: WordPress version number
-#: wp-admin/about.php:352
+#: wp-admin/about.php:392
 msgid "<strong>Version %s</strong> addressed some security issues."
 msgstr "<strong>버전 %s</strong> 보안 문제를 처리했습니다."
 
@@ -5564,11 +5565,11 @@ msgstr "<strong>버전 %s</strong> 보안 문제를 처리했습니다."
 msgid "This screen allows you to choose your permalink structure. You can choose from common settings or create custom URL structures."
 msgstr "이 화면은 기본 고유주소 구조를 선택할 수 있게 해줍니다. 일반 설정에서 선택하거나 사용자 정의 URL 구조를 만들 수 있습니다."
 
-#: wp-admin/about.php:233
+#: wp-admin/about.php:273
 msgid "Return to Updates"
 msgstr "업데이트로 돌아가기"
 
-#: wp-admin/includes/update-core.php:1262 wp-admin/update-core.php:512
+#: wp-admin/includes/update-core.php:1302 wp-admin/update-core.php:512
 msgid "Welcome to WordPress %1$s. <a href=\"%2$s\">Learn more</a>."
 msgstr "워드프레스 %1$s에 오신 것을 환영합니다. <a href=\"%2$s\">자세히 보기</a>."
 
@@ -5840,11 +5841,11 @@ msgstr "이것은 다중사이트 설치이므로 사용자명이나 이메일�
 msgid "Welcome to WordPress %s"
 msgstr "WordPress %s 사용을 환영합니다"
 
-#: wp-admin/about.php:236
+#: wp-admin/about.php:276
 msgid "Go to Dashboard &rarr; Home"
 msgstr "대시보드 &rarr; 홈으로 가기"
 
-#: wp-admin/about.php:233
+#: wp-admin/about.php:273
 msgid "Return to Dashboard &rarr; Updates"
 msgstr "대시보드 &rarr; 업데이트로 돌아가기"
 
@@ -5971,7 +5972,7 @@ msgstr "다른 웹사이트로부터 미디어 삽입"
 msgid "<strong>ERROR</strong>: options page not found."
 msgstr "<strong>에러</strong>: 옵션 페이지를 찾지 못했습니다."
 
-#: wp-admin/includes/file.php:1647
+#: wp-admin/includes/file.php:1648
 msgid "<strong>ERROR:</strong> There was an error connecting to the server, Please verify the settings are correct."
 msgstr "<strong>에러:</strong> 서버에 연결하는 중에 에러가 생겼습니다. 설정이 올바른지 확인하십시요."
 
@@ -6325,11 +6326,11 @@ msgstr "선택할 더 많은 플러그인을 보려면 &#8220;새로 추가&#822
 msgid "Re-install Now"
 msgstr "지금 다시 설치하기"
 
-#: wp-admin/includes/file.php:750
+#: wp-admin/includes/file.php:751
 msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form."
 msgstr "업로드한 파일은 HTML 폼에 정의된 MAX_FILE_SIZE에 지정한 크기를 초과하였습니다."
 
-#: wp-admin/includes/file.php:749
+#: wp-admin/includes/file.php:750
 msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini."
 msgstr "업로드한 파일은 php.ini의 upload_max_filesize에 지정한 크기를 초과하였습니다."
 
@@ -6754,7 +6755,7 @@ msgstr "필터 적용"
 msgid "Editor Style"
 msgstr "편집기 스타일"
 
-#: wp-admin/includes/file.php:1690
+#: wp-admin/includes/file.php:1691
 msgid "To perform the requested action, WordPress needs to access your web server."
 msgstr "요청한 작업을 수행하려면, 워드프레스는 웹 서버에 접속해야 합니다."
 
@@ -6840,19 +6841,19 @@ msgstr "자르고 공개하기"
 msgid "XFN stands for <a href=\"http://gmpg.org/xfn/\">XHTML Friends Network</a>, which is optional. WordPress allows the generation of XFN attributes to show how you are related to the authors/owners of the site to which you are linking."
 msgstr "XFN은 <a href=\"http://gmpg.org/xfn/\">XHTML Friends Network</a>의 약자이며, 선택사항입니다. 워드프레스는 XFN 속성의 생성이 가능하며 링크하는 사이트의 글쓴이/소유자와 연관시키는 방법을 보여줍니다."
 
-#: wp-admin/includes/file.php:1700
+#: wp-admin/includes/file.php:1701
 msgid "FTP Password"
 msgstr "FTP 비밀번호"
 
-#: wp-admin/includes/file.php:1699
+#: wp-admin/includes/file.php:1700
 msgid "FTP Username"
 msgstr "FTP 사용자명"
 
-#: wp-admin/includes/file.php:1696
+#: wp-admin/includes/file.php:1697
 msgid "FTP/SSH Password"
 msgstr "FTP/SSH 비밀번호"
 
-#: wp-admin/includes/file.php:1695
+#: wp-admin/includes/file.php:1696
 msgid "FTP/SSH Username"
 msgstr "FTP/SSH 사용자명"
 
@@ -6896,15 +6897,15 @@ msgstr "작성된 컨텐츠에 삽입되는 이미지의 최대 크기를 설정
 msgid "<strong>Order</strong> &mdash; Pages are usually ordered alphabetically, but you can choose your own order by entering a number (1 for first, etc.) in this field."
 msgstr "<strong>정렬</strong> &mdash; 페이지는 기본적으로 알파벳순으로 정렬되지만, 이 필드에 숫자를 입력해서(첫번째는 1, 이런식으로) 자신만의 정렬을 만들 수 있습니다."
 
-#: wp-admin/includes/file.php:1694
+#: wp-admin/includes/file.php:1695
 msgid "Please enter your FTP or SSH credentials to proceed."
 msgstr "계속 진행하기 위해 FTP나 SSH 증명서를 입력하세요."
 
-#: wp-admin/includes/file.php:1698
+#: wp-admin/includes/file.php:1699
 msgid "Please enter your FTP credentials to proceed."
 msgstr "계속 진행하기 위해 FTP 증명서를 입력하세요."
 
-#: wp-admin/includes/file.php:1704
+#: wp-admin/includes/file.php:1705
 msgid "If you do not remember your credentials, you should contact your web host."
 msgstr "증명서가 기억나지 않는다면 웹 호스트에게 연락하세요."
 
@@ -7332,15 +7333,15 @@ msgstr "내 사이트"
 msgid "New WordPress Site"
 msgstr "새 워드프레스 사이트"
 
-#: wp-admin/includes/plugin.php:437
+#: wp-admin/includes/plugin.php:424
 msgid "Custom site deleted message."
 msgstr "사용자 정의 사이트 삭제 메세지."
 
-#: wp-admin/includes/plugin.php:439
+#: wp-admin/includes/plugin.php:426
 msgid "Custom site suspended message."
 msgstr "사용자 정의 사이트 중단 메세지."
 
-#: wp-admin/includes/plugin.php:438
+#: wp-admin/includes/plugin.php:425
 msgid "Custom site inactive message."
 msgstr "사용자 정의 사이트 비활성 메세지."
 
@@ -7637,7 +7638,7 @@ msgid "Update WordPress"
 msgstr "워드프레스 업데이트"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:349
-#: wp-admin/includes/update-core.php:1258 wp-admin/update-core.php:510
+#: wp-admin/includes/update-core.php:1298 wp-admin/update-core.php:510
 msgid "WordPress updated successfully"
 msgstr "워드프레스를 성공적으로 업데이트했습니다."
 
@@ -7682,7 +7683,7 @@ msgid "Must-Use <span class=\"count\">(%s)</span>"
 msgid_plural "Must-Use <span class=\"count\">(%s)</span>"
 msgstr[0] "Must-Use <span class=\"count\">(%s)</span>"
 
-#: wp-admin/about.php:236
+#: wp-admin/about.php:276
 msgid "Go to Dashboard"
 msgstr "대시보드로 가기 l&rsquo;홈"
 
@@ -7703,19 +7704,19 @@ msgstr "이 시간대는 현재 일광 절약 시간제입니다."
 msgid "This address is used for admin purposes. If you change this we will send you an email at your new address to confirm it. <strong>The new address will not become active until confirmed.</strong>"
 msgstr "이 주소는 관리 목적으로 사용됩니다. 만약 이것을 변경한다면 확인을 위해 새로운 주소로 이메일을 전송합니다.<strong>새로운 주소는 확인 전까지 활성화되지 않습니다.</strong>"
 
-#: wp-admin/includes/plugin.php:427
+#: wp-admin/includes/plugin.php:414
 msgid "Advanced caching plugin."
 msgstr "고급 캐싱 플러그인."
 
-#: wp-admin/includes/plugin.php:436
+#: wp-admin/includes/plugin.php:423
 msgid "Executed before Multisite is loaded."
 msgstr "멀티사이트가 로드되기 전에 실행됨."
 
-#: wp-admin/includes/plugin.php:432
+#: wp-admin/includes/plugin.php:419
 msgid "External object cache."
 msgstr "외부 객체 캐시."
 
-#: wp-admin/includes/file.php:781
+#: wp-admin/includes/file.php:782
 msgid "File is empty. Please upload something more substantial."
 msgstr "파일이 비었습니다. 업로드를 해주세요."
 
@@ -7728,15 +7729,15 @@ msgstr "파일이 비었습니다. 업로드를 해주세요."
 msgid "Install %s"
 msgstr "설치 %s"
 
-#: wp-admin/includes/plugin.php:431
+#: wp-admin/includes/plugin.php:418
 msgid "Custom maintenance message."
 msgstr "사용자 정의 유지보수 메세지."
 
-#: wp-admin/includes/plugin.php:429
+#: wp-admin/includes/plugin.php:416
 msgid "Custom database error message."
 msgstr "사용자 정의 데이터베이스 에러 메세지."
 
-#: wp-admin/includes/plugin.php:428
+#: wp-admin/includes/plugin.php:415
 msgid "Custom database class."
 msgstr "사용자 정의 데이터베이스 클래스."
 
@@ -8343,7 +8344,7 @@ msgstr "특성"
 msgid "File edited successfully."
 msgstr "파일 편집이 성공적으로 완료되었습니다."
 
-#: wp-admin/includes/file.php:467 wp-admin/plugin-editor.php:112
+#: wp-admin/includes/file.php:468 wp-admin/plugin-editor.php:112
 msgid "Files of this type are not editable."
 msgstr "이런 형식의 파일은 편집할 수 없습니다."
 
@@ -8436,7 +8437,7 @@ msgstr "새 비밀번호"
 msgid "No plugins found."
 msgstr "플러그인을 찾을 수 없습니다."
 
-#: wp-admin/includes/file.php:459 wp-admin/plugin-editor.php:105
+#: wp-admin/includes/file.php:460 wp-admin/plugin-editor.php:105
 msgid "No such file exists! Double check the name and try again."
 msgstr "이런, 파일이 없습니다! 파일 이름을 다시 한 번 확인해보세요."
 
@@ -8579,7 +8580,7 @@ msgstr "보여줄 가장 최근의 신디케이션 피드 수"
 msgid "The current user&#8217;s role must have user editing capabilities."
 msgstr "현재 사용자의 권한은 반드시 사용자 정보를 고칠 수 있어야 합니다."
 
-#: wp-admin/includes/update-core.php:872
+#: wp-admin/includes/update-core.php:908
 msgid "The update could not be unpacked"
 msgstr "업데이트를 압축 해제하지 못했습니다."
 
@@ -8636,7 +8637,7 @@ msgstr "사용자 업데이트"
 msgid "Update to %s"
 msgstr "%s (으)로 업데이트"
 
-#: wp-admin/includes/update-core.php:1132
+#: wp-admin/includes/update-core.php:1172
 msgid "Upgrading database&#8230;"
 msgstr "데이터베이스를 업그레이드 하는중."
 
@@ -8670,7 +8671,7 @@ msgstr "사용자가 이미 존재합니다."
 msgid "Users must be registered and logged in to comment"
 msgstr "가입하여 로그인한 사용자만 댓글을 남길 수 있습니다"
 
-#: wp-admin/includes/update-core.php:859
+#: wp-admin/includes/update-core.php:895
 msgid "Verifying the unpacked files&#8230;"
 msgstr "압축 해제된 파일을 검사합니다."
 
@@ -8812,15 +8813,15 @@ msgid "Inactive <span class=\"count\">(%s)</span>"
 msgid_plural "Inactive <span class=\"count\">(%s)</span>"
 msgstr[0] "비활성화 <span class=\"count\">(%s)</span>"
 
-#: wp-admin/includes/update-core.php:906
+#: wp-admin/includes/update-core.php:942
 msgid "The update cannot be installed because WordPress %1$s requires PHP version %2$s or higher and MySQL version %3$s or higher. You are running PHP version %4$s and MySQL version %5$s."
 msgstr "업데이트를 설치할 수 없습니다, 그 이유는 워드프레스 %1$s 는 PHP 버전 %2$s 이거나 그 이상 MySQL 버전 %3$s 이거나 그 이상이어야 합니다. PHP %4$s 버전과 MySQL %5$s 버전을 사용하고 있습니다."
 
-#: wp-admin/includes/update-core.php:908
+#: wp-admin/includes/update-core.php:944
 msgid "The update cannot be installed because WordPress %1$s requires PHP version %2$s or higher. You are running version %3$s."
 msgstr "업데이트를 설치할 수 없습니다, 그 이유는 워드프레스 %1$s 는 PHP 버전이 %2$s 이거나 이상이어야 합니다. %3$s 버전을 사용중입니다."
 
-#: wp-admin/includes/update-core.php:910
+#: wp-admin/includes/update-core.php:946
 msgid "The update cannot be installed because WordPress %1$s requires MySQL version %2$s or higher. You are running version %3$s."
 msgstr "업데이트를 설치할 수 없습니다, 그 이유는 워드프레스 %1$s 는 MySQL 버전이 %2$s 이거나 이상이어야 합니다. %3$s 버전을 사용중입니다."
 
@@ -9208,8 +9209,8 @@ msgid "Unable to perform command: %s"
 msgstr "다음 명령을 수행할 수 없습니다: %s"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:336
-#: wp-admin/includes/class-wp-upgrader.php:149 wp-admin/includes/file.php:1043
-#: wp-admin/includes/plugin.php:824 wp-admin/includes/theme.php:59
+#: wp-admin/includes/class-wp-upgrader.php:149 wp-admin/includes/file.php:1044
+#: wp-admin/includes/plugin.php:811 wp-admin/includes/theme.php:59
 msgid "Could not access filesystem."
 msgstr "파일시스템에 접근할 수없습니다."
 
@@ -9294,31 +9295,31 @@ msgstr "my-hacks.php (사용자가 만든 php 파일)"
 msgid ".htaccess (for rewrite rules )"
 msgstr ".htaccess ('다시 쓰기 규칙'을 쓰기 위해)"
 
-#: wp-admin/includes/file.php:754
+#: wp-admin/includes/file.php:755
 msgid "Missing a temporary folder."
 msgstr "임시 폴더가 없습니다."
 
-#: wp-admin/includes/file.php:755
+#: wp-admin/includes/file.php:756
 msgid "Failed to write file to disk."
 msgstr "디스크에 파일을 작성하지 못했습니다."
 
-#: wp-admin/includes/file.php:1655
+#: wp-admin/includes/file.php:1656
 msgid "FTP"
 msgstr "FTP"
 
-#: wp-admin/includes/file.php:1657
+#: wp-admin/includes/file.php:1658
 msgid "FTPS (SSL)"
 msgstr "FTPS (SSL)"
 
-#: wp-admin/includes/file.php:1685
+#: wp-admin/includes/file.php:1686
 msgid "Connection Information"
 msgstr "연결 정보"
 
-#: wp-admin/includes/file.php:1707
+#: wp-admin/includes/file.php:1708
 msgid "Hostname"
 msgstr "호스트이름"
 
-#: wp-admin/includes/file.php:1744
+#: wp-admin/includes/file.php:1745
 msgid "Authentication Keys"
 msgstr "인증키"
 
@@ -9326,19 +9327,19 @@ msgstr "인증키"
 msgid "Compatible up to:"
 msgstr "호환되는 버전:"
 
-#: wp-admin/includes/file.php:1746
+#: wp-admin/includes/file.php:1747
 msgid "Public Key:"
 msgstr "공개키"
 
-#: wp-admin/includes/file.php:1750
+#: wp-admin/includes/file.php:1751
 msgid "Private Key:"
 msgstr "비밀키"
 
-#: wp-admin/includes/file.php:1724
+#: wp-admin/includes/file.php:1725
 msgid "Connection Type"
 msgstr "연결 타입"
 
-#: wp-admin/includes/file.php:1766
+#: wp-admin/includes/file.php:1767
 msgid "Proceed"
 msgstr "처리하기"
 
@@ -9573,7 +9574,7 @@ msgstr "최신 버전이 설치됨"
 msgid "<strong>Warning:</strong> This plugin has <strong>not been tested</strong> with your current version of WordPress."
 msgstr "<strong>주의:</strong> 이 플러그인은 워드프레스 현재 버전에서 충분히 <strong>시험되지 않았습니다.</strong> "
 
-#: wp-admin/includes/plugin.php:766
+#: wp-admin/includes/plugin.php:753
 msgid "One of the plugins is invalid."
 msgstr "플러그인중 하나가 잘못되었습니다."
 
@@ -9830,9 +9831,9 @@ msgstr "댓글 %s개를 스팸으로 처리했습니다."
 msgid "Comments Template"
 msgstr "댓글 템플릿"
 
-#: wp-admin/includes/file.php:1194 wp-admin/includes/file.php:1298
-#: wp-admin/includes/file.php:1333 wp-admin/includes/update-core.php:1091
-#: wp-admin/includes/update-core.php:1202
+#: wp-admin/includes/file.php:1195 wp-admin/includes/file.php:1299
+#: wp-admin/includes/file.php:1334 wp-admin/includes/update-core.php:1127
+#: wp-admin/includes/update-core.php:1242
 msgid "Could not copy file."
 msgstr "파일을 복사할 수 없습니다."
 
@@ -9840,17 +9841,17 @@ msgstr "파일을 복사할 수 없습니다."
 msgid "Could not copy files."
 msgstr "파일을 복사할 수 없습니다."
 
-#: wp-admin/includes/file.php:973
+#: wp-admin/includes/file.php:974
 msgid "Could not create Temporary file."
 msgstr "임시 파일을 생성할 수 없습니다."
 
-#: wp-admin/includes/class-wp-upgrader.php:162 wp-admin/includes/file.php:1169
-#: wp-admin/includes/file.php:1280 wp-admin/includes/file.php:1338
-#: wp-admin/includes/update-core.php:1207
+#: wp-admin/includes/class-wp-upgrader.php:162 wp-admin/includes/file.php:1170
+#: wp-admin/includes/file.php:1281 wp-admin/includes/file.php:1339
+#: wp-admin/includes/update-core.php:1247
 msgid "Could not create directory."
 msgstr "디렉터리를 생성할 수 없습니다."
 
-#: wp-admin/includes/file.php:1191
+#: wp-admin/includes/file.php:1192
 msgid "Could not extract file from archive."
 msgstr "보관물에서 파일을 추출할 수 없습니다."
 
@@ -9866,7 +9867,7 @@ msgstr "이전 플러그인을 지울 수 없습니다."
 msgid "Could not remove the old theme."
 msgstr "이전 테마를 지울 수 없습니다."
 
-#: wp-admin/includes/file.php:1117 wp-admin/includes/file.php:1176
+#: wp-admin/includes/file.php:1118 wp-admin/includes/file.php:1177
 msgid "Could not retrieve file from archive."
 msgstr "보관물에서 파일을 검색할 수 없습니다."
 
@@ -9903,7 +9904,7 @@ msgid "Disable accessibility mode"
 msgstr "접근 모드 비활성화"
 
 #: wp-admin/includes/class-wp-upgrader.php:167
-#: wp-admin/includes/update-core.php:1054
+#: wp-admin/includes/update-core.php:1090
 msgid "Disabling Maintenance mode&#8230;"
 msgstr "유지관리 모드 비활성화."
 
@@ -9942,7 +9943,7 @@ msgstr "스팸 비우기"
 msgid "Empty Trash"
 msgstr "휴지통 비우기"
 
-#: wp-admin/includes/file.php:1235
+#: wp-admin/includes/file.php:1236
 msgid "Empty archive."
 msgstr "빈 보관물."
 
@@ -9951,7 +9952,7 @@ msgid "Enable accessibility mode"
 msgstr "접근 모드 활성화"
 
 #: wp-admin/includes/class-wp-upgrader.php:166
-#: wp-admin/includes/update-core.php:967
+#: wp-admin/includes/update-core.php:1003
 msgid "Enabling Maintenance mode&#8230;"
 msgstr "유지관리 모드 활성화."
 
@@ -9964,11 +9965,11 @@ msgstr "비례를 맞춘 이미지를 저장하는 중에 에러가 발생했습
 msgid "FTP password is required"
 msgstr "FTP 비밀번호가 필요합니다."
 
-#: wp-admin/includes/file.php:756
+#: wp-admin/includes/file.php:757
 msgid "File upload stopped by extension."
 msgstr "확장자에 의해 파일 업로드가 중단되었습니다."
 
-#: wp-admin/includes/class-wp-upgrader.php:150 wp-admin/includes/plugin.php:827
+#: wp-admin/includes/class-wp-upgrader.php:150 wp-admin/includes/plugin.php:814
 #: wp-admin/includes/theme.php:62
 msgid "Filesystem error."
 msgstr "파일시스템 에러."
@@ -10017,7 +10018,7 @@ msgstr "이미지 복원이 성공적으로 완료되었습니다."
 msgid "Image saved"
 msgstr "이미지가 저장됨"
 
-#: wp-admin/includes/file.php:1111 wp-admin/includes/file.php:1232
+#: wp-admin/includes/file.php:1112 wp-admin/includes/file.php:1233
 msgid "Incompatible Archive."
 msgstr "비호환 보관물."
 
@@ -10042,15 +10043,15 @@ msgstr "플러그인을 설치."
 msgid "Installing the theme&#8230;"
 msgstr "테마를 설치하는중."
 
-#: wp-admin/includes/file.php:967
+#: wp-admin/includes/file.php:968
 msgid "Invalid URL Provided."
 msgstr "잘못된 URL이 제공되었습니다."
 
-#: wp-admin/includes/file.php:770
+#: wp-admin/includes/file.php:771
 msgid "Invalid form submission."
 msgstr "폼 등록이 잘못 되었습니다."
 
-#: wp-admin/includes/plugin.php:969
+#: wp-admin/includes/plugin.php:956
 msgid "Invalid plugin path."
 msgstr "플러그인 경로가 올바르지 않습니다."
 
@@ -10152,7 +10153,7 @@ msgstr "새 카테고리 이름"
 msgid "No comments found."
 msgstr "댓글이 없습니다."
 
-#: wp-admin/includes/file.php:752
+#: wp-admin/includes/file.php:753
 msgid "No file was uploaded."
 msgstr "업로드한 파일이 없습니다."
 
@@ -10302,7 +10303,7 @@ msgstr "시계 방향으로 회전"
 msgid "Rotate counter-clockwise"
 msgstr "시계 반대방향으로 회전"
 
-#: wp-admin/includes/file.php:1659
+#: wp-admin/includes/file.php:1660
 msgid "SSH2"
 msgstr "SSH2"
 
@@ -10353,7 +10354,7 @@ msgstr "슬러그"
 msgid "Sort Order:"
 msgstr "정렬 순서:"
 
-#: wp-admin/includes/file.php:791
+#: wp-admin/includes/file.php:792
 msgid "Specified file failed upload test."
 msgstr "지정한 파일은 업로드 테스트에 실패하였습니다."
 
@@ -10382,19 +10383,19 @@ msgstr "설명은 기본적으로는 많이 존재하지는 않지만 일부 테
 msgid "The name is how it appears on your site."
 msgstr "사이트에 나타나는 이름"
 
-#: wp-admin/includes/plugin.php:975
+#: wp-admin/includes/plugin.php:962
 msgid "The plugin does not have a valid header."
 msgstr "플러그인의 헤더가 유효하지 않습니다."
 
-#: wp-admin/includes/plugin.php:631
+#: wp-admin/includes/plugin.php:618
 msgid "The plugin generated unexpected output."
 msgstr "플러그인이 예기치 않은 출력을 생성했습니다."
 
-#: wp-admin/includes/file.php:858
+#: wp-admin/includes/file.php:859
 msgid "The uploaded file could not be moved to %s."
 msgstr "업로드된 파일이 %s 로 옮겨질 수 없습니다."
 
-#: wp-admin/includes/file.php:751
+#: wp-admin/includes/file.php:752
 msgid "The uploaded file was only partially uploaded."
 msgstr "업로드한 파일은 일부만 업로드되었습니다."
 
@@ -10657,7 +10658,7 @@ msgstr[0] "(%s 등급 기반)"
 msgid "WordPress.org Plugin Page &#187;"
 msgstr "WordPress.org 플러그인 페이지 &#187;"
 
-#: wp-admin/includes/plugin.php:971
+#: wp-admin/includes/plugin.php:958
 msgid "Plugin file does not exist."
 msgstr "플러그인의 파일이 존재하지 않습니다."
 
@@ -10677,7 +10678,7 @@ msgctxt "User role"
 msgid "Contributor"
 msgstr "기여자"
 
-#: wp-admin/includes/file.php:783 wp-admin/includes/import.php:84
+#: wp-admin/includes/file.php:784 wp-admin/includes/import.php:84
 msgid "File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini."
 msgstr "파일이 비어있습니다. 뭔가 실질적인 것을 업로드해야 합니다. 이 에러는 php.ini에서 업로드하는 기능을 꺼놨을때 또는 post_max_size가 upload_max_filesize보다 작게 설정되었을때 발생했을 수 있습니다."
 
@@ -10776,7 +10777,7 @@ msgstr "죄송합니다. 이 사용자로 글을 편집할 권한이 없습니�
 msgid "Unable to locate WordPress content directory (wp-content)."
 msgstr "워드프레스 컨텐츠 디렉토리(wp-content)를 확인할 수 없습니다."
 
-#: wp-admin/includes/class-wp-upgrader.php:153 wp-admin/includes/plugin.php:832
+#: wp-admin/includes/class-wp-upgrader.php:153 wp-admin/includes/plugin.php:819
 msgid "Unable to locate WordPress plugin directory."
 msgstr "워드프레스 플러그인 디렉토리를 확인할 수 없습니다."
 
@@ -10811,7 +10812,7 @@ msgid_plural "Mine <span class=\"count\">(%s)</span>"
 msgstr[0] "내 글 <span class=\"count\">(%s)</span>"
 
 #. translators: %s: comma-separated list of plugin filenames
-#: wp-admin/includes/plugin.php:910
+#: wp-admin/includes/plugin.php:897
 msgid "Could not fully remove the plugins %s."
 msgstr "플러그인 %s을(를) 완전히 제거할 수 없습니다."
 
